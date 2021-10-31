@@ -1,0 +1,20 @@
+#files-table {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+}
+#files-table tr,
+    #td,
+    #th {
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+  
+    .file-title {
+      width: 20%;
+    }
+  
+    .file-description {
+      width: 70%;
+    }
+  
