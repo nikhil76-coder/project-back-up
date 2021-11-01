@@ -20,7 +20,7 @@ const FilesList = () => {
     const getFilesList = async () => {
       try {
         const { data } = await axios.get(
-          "http://localhost:8080/api/getMultipleFiles"
+          "http://localhost:5000/api/getMultipleFiles"
         );
         setErrorMsg("");
         setFilesList(data);
