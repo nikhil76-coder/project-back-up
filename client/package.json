@@ -1,0 +1,83 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@coreui/chartjs": "3.0.0",
+    "@coreui/coreui": "4.0.1",
+    "@coreui/icons": "^2.0.1",
+    "@coreui/icons-react": "^2.0.0-rc.5",
+    "@coreui/react": "4.0.0-rc.0",
+    "@coreui/react-chartjs": "2.0.0-rc.0",
+    "@coreui/utils": "^1.3.1",
+    "@date-io/date-fns": "^1.3.13",
+    "@material-table/core": "^0.2.6",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@material-ui/pickers": "^3.3.10",
+    "@material-ui/styles": "^4.11.4",
+    "@mui/icons-material": "^5.0.4",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.3",
+    "axios": "^0.23.0",
+    "bootstrap": "^4.5.0",
+    "chart.js": "^3.5.1",
+    "classnames": "^2.3.1",
+    "core-js": "^3.16.2",
+    "date-fns": "^2.21.1",
+    "downloadjs": "^1.4.7",
+    "enzyme": "^3.11.0",
+    "final-form-material-ui": "0.3.0",
+    "jquery": "^3.5.1",
+    "material-icons": "^0.6.2",
+    "material-table": "^1.69.3",
+    "material-ui-react-final-form": "^0.1.4",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-admin": "^3.14.5",
+    "react-app-polyfill": "^2.0.0",
+    "react-bootstrap": "^1.5.2",
+    "react-charts": "^2.0.0-beta.7",
+    "react-dom": "^16.13.1",
+    "react-dropzone": "^11.4.2",
+    "react-final-form": "^6.5.3",
+    "react-hook-form": "^7.9.0",
+    "react-material-ui-form-validator": "^2.1.4",
+    "react-redux": "^7.2.4",
+    "react-redux-form": "^1.16.14",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "reactstrap": "^8.9.0",
+    "recharts": "^2.0.9",
+    "redux": "^4.1.0",
+    "redux-form": "^8.3.7",
+    "simplebar-react": "^2.3.5",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
